@@ -3,6 +3,7 @@ title: About US
 ---
 
 Welcome to Altadore Daycare!
+Thank you for considering Altadore Daycare as your child's second home. We look forward to the opportunity to be a part of your family's journey!
 
 At Altadore Daycare, we believe in providing a nurturing and enriching environment for your child's early years. Located in the heart of Calgary at 1820 40 Ave SW, our daycare is more than just a place for children – it's a home away from home.
 
@@ -23,5 +24,3 @@ We value the relationship between our daycare and the community. Regular communi
 
 Come Visit Us:
 We invite you to visit our daycare and witness the vibrant and loving atmosphere we've created. Feel free to explore our facilities, meet our passionate team, and learn more about how Altadore Daycare can be a positive influence on your child's early years.
-
-Thank you for considering Altadore Daycare as your child's second home. We look forward to the opportunity to be a part of your family's journey!
