@@ -1,5 +1,6 @@
 ---
 title: About US
+date: "2024-02-01"
 ---
 
 Welcome to Altadore Daycare!
