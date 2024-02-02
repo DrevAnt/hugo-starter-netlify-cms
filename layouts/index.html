@@ -1,11 +1,85 @@
 {{ partial "header.html" . }}
 
-<h1>{{ .Params.title }}</h1>
+<!-- <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"> -->
 
-<p>{{ .Params.blurb }}</p>
+<!-- <h1>{{ .Params.title }}</h1> -->
 
-<h2>{{ .Params.section.heading }}</h2>
+<!-- <p>{{ .Params.blurb }}</p> -->
 
-<p>{{ .Params.section.text }}</p>
+<!-- <h2>{{ .Params.section.heading }}</h2> -->
+
+<!-- <p>{{ .Params.section.text }}</p> -->
+
+<section >
+      <div >
+        <div >
+          <div >
+            <h1 >{{ .Params.title }}</h1>
+            <p >
+              {{ .Params.blurb }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+<section>
+ <div>
+    <div class="cards-section">
+      <div >
+        <h2>{{ .Params.section.heading }}</h2>
+        <p>{{ .Params.section.text }}</p>
+      </div>
+      <div class="grid-container">
+        <div class="card">
+          <h3>Care</h3>
+          <p>We provide the best care for your children.</p>
+        </div>
+        <div class="card">
+          <h3>Education</h3>
+          <p>We provide a stimulating environment for your children to learn.</p>
+        </div>
+        <div class="card">
+          <h3>Activities</h3>
+          <p>We provide a variety of activities for your children to enjoy.</p>
+        </div>
+        <div class="card">
+          <h3>Meals</h3>
+          <p>We provide nutritious meals for your children.</p>
+        </div>
+      </div>
+    </div>
+ </div>
+</section>
+
+<section>
+  <div>
+      <div class="cards-section">
+        <div class="">
+          <h2>{{ .Params.section2.heading }}</h2>
+          <p>{{ .Params.section2.text }}</p>
+        </div>
+        <div class="grid-container">
+          <div class="card">
+            <h3>Indoor Play Area</h3>
+            <p>We provide a safe and stimulating indoor play area for your children.</p>
+          </div>
+          <div class="card">
+            <h3>Outdoor Play Area</h3>
+            <p>We provide a safe and stimulating outdoor play area for your children.</p>
+          </div>
+          <div class="card">
+            <h3>Classrooms</h3>
+            <p>We provide a stimulating environment for your children to learn.</p>
+          </div>
+          <div class="card">
+            <h3>Kitchen</h3>
+            <p>We provide a safe and comfortable kitchen for your children.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+</section>
+
 
 {{ partial "footer.html" . }}

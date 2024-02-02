@@ -1,7 +1,10 @@
 ---
-title: Altadore daycare cms website.
-blurb: Welcome to your new Altadore daycare cms website
+title: Welcome to Altadore Daycare
+blurb: We provide the best care for your children.
 section:
-  heading: A Subsection
-  text: You can put even more content in here.
+  heading: Our Services
+  text: We provide a wide range of services to meet your child's needs.
+section2:
+  heading: Our Facilities
+  text: We provide a safe and comfortable environment for your children.
 ---
